@@ -1,10 +1,10 @@
-Projet de mise en situation professionnelle dans le cadre du RNCP 31678 de niveau 6
+# Projet de mise en situation professionnelle dans le cadre du RNCP 31678 de niveau 6
 Concepteur Développeur d’application
 ESRP 2isa Millau
 
 EPCF 1 - Projet fil-rouge jalon 1 | application PHP Framework Laravel 10.8, bibliothèque Fortify d'authetification 1.17
 
-Résumé :
+## Résumé :
 
 Dans ma formation CDA, ce projet de gestion des incidents du parc informatique de l'association AMIO vise à simplifier la maintenance du parc matériel, en simplifiant la communication entre les utilisateurs et le Service Informatique. Il se compose de deux applications : une application web destinée aux utilisateurs et une application desktop exclusivement pour le SI.
 L'application web de ce Jalon un, permet de signaler les incidents en ouvrant des tickets et de dialoguer sur ces incidents avec le SI dans un espace sécurisé.
